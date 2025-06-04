@@ -1,4 +1,4 @@
-# eye-closure-detector
+# Sleep Detection by using python Libary 
 
 ## Project Overview: 
 This project detects drowsiness using a webcam by tracking eye landmarks and calculating the Eye Aspect Ratio (EAR), with the help of Python libraries such as OpenCV for video processing, dlib for facial landmark detection, scipy for distance calculations, and pygame for audio alerts. If the eyes remain closed for a set number of frames, a sound alert is triggered. 
