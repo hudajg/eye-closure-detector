@@ -8,8 +8,8 @@ This project detects drowsiness using a webcam by tracking eye landmarks and cal
 1. **Clone the repository:**
 
  ```bash
-git clone https://github.com/hudajg/Sleepdetection.git](https://github.com/hudajg/sleep-detection.git)
- cd Sleepdetection
+git clone https://github.com/hudajg/eye-closure-detector.git
+cd Sleepdetection
   ```
 2. **Install required libraries:**
   ```bash
