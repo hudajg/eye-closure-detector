@@ -9,7 +9,7 @@ This project detects drowsiness using a webcam by tracking eye landmarks and cal
 
  ```bash
 git clone https://github.com/hudajg/eye-closure-detector.git
-cd Sleepdetection
+cd eye-closure-detector
   ```
 2. **Install required libraries:**
   ```bash
@@ -22,7 +22,7 @@ xcode-select --install
   ```
 3. **Run the program:**
   ```bash
-python3 sleep_detector.py
+python3 eye-closure-detector.py
   ```
 4. **Exit the program:**
 press ESC on Keyboard
