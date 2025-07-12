@@ -22,7 +22,7 @@ xcode-select --install
   ```
 3. **Run the program:**
   ```bash
-python3 eye-closure-detector.py
+python3 Sleepdetection.py
   ```
 4. **Exit the program:**
 press ESC on Keyboard
